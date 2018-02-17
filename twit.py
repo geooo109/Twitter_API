@@ -96,7 +96,7 @@ def api():
 
 	#now lets check tha same followers
 	if len(ids1) == 0 or len(ids2) == 0:
-		print "The 2 users havent same followers"
+		print "No same followers for the 2 users"
 	
 	else:
 		count = 0
