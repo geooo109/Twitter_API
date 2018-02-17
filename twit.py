@@ -107,7 +107,7 @@ def api():
 					print "The 2 users have the same follower with name,",name1
 
 		if count == 0:
-			print "The 2 users havent same followers"
+			print "No same followers for the 2 users"
 		else:
 			print "The total same followers are = ",count
 
