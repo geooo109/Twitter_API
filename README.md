@@ -10,6 +10,6 @@ Finds from 2 users of Twitter same followers.
 ```
 consumer_key|xxx
 consumer_secret|yyy
-naccess_token|zzz
+access_token|zzz
 access_secret|ppp
 ```
